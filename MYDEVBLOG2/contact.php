@@ -11,6 +11,8 @@
         <h3>CONTACT</h3>
         <link rel="stylesheet" href="style.css">
 
+        <em> N'hesitez pas à me laisser un message. Vous pouvez me donner des idées de sujet à traiter où bien des axes d'amelioration</em>
+
 <p><form action="index.php?page=contact-form" method="post">
        <div>
             <label for="name/firstname">Nom/Prenom :</label>

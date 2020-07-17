@@ -36,6 +36,7 @@ $articles = getArticles();
         <?php foreach($articles as $article): ?>
             <h2><?= $article->titre ?></h2>
             <time><?= $article->Date ?></time>
+            <h5><?= $article->Extrait ?></h5>
             <br /><br />
             <a href="article.php?id=<?= $article->id ?>">Lire la suite</a>
 

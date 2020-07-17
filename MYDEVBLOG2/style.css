@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    color: rgba(0, 0, 0, .87);
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.8;
+    background-color: pink ;
+}
+
+h1{
+    text-align: center;
+    color: seashell;
+}
+
+h2{
+    text-align: center;
+    color: seashell;
+}
+
+h3{
+    text-align: center;
+    color: seashell
+}
+
+.topbar {
+    position: fixed;
+    background: #FFF;
+    padding: 31px 87px;
+}
+
+.topbar nav {
+    float: left;
+}
+
+.topbar nav a{
+    color: #fbfbfb;
+    padding: 0 53px;
+}
+
+.topbar nav a:hover {
+    color: #000000;
+}
+
+.banniere img{
+    width: 100%;
+    height: auto;
+}
